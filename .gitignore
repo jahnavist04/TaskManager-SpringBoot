@@ -1,0 +1,14 @@
+# Maven / Java
+target/
+*.class
+
+# IDEs
+.idea/
+.vscode/
+.project
+.classpath
+.settings/
+
+# OS files
+.DS_Store
+Thumbs.db
